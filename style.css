@@ -1,5 +1,7 @@
 body {
     background-color: #1E1E1E;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* header section or top banner section */
@@ -19,14 +21,12 @@ body {
     text-align: center;
     padding-top: 120px;
     color: #FFFFFF;
-    font-family: 'Inter', sans-serif;
 }
 
 #paragraph-tag {
     text-align: center;
     color: #FFFFFF;
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;
     padding-top: 0%;
     padding-bottom: 15px;
     padding-left: 300px;
@@ -42,4 +42,60 @@ body {
     font-weight: 900;
     border-radius: 5px;
     font-size: 20px;
+}
+
+/* Donate Today or Second Middle Section */
+.second-middle-section {
+    background-color: #FFFFFF;
+    height: 580px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 7%;
+    color: #121212;
+}
+
+p {
+    color: #707070;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+}
+
+.btn-amount {
+    background-color: #FAFAFA;
+    color: #707070;
+    padding: 30px 20px;
+    font-weight: 700;
+    margin-left: 1%;
+    border-radius: 5px;
+    font-size: 30px;
+    border: 0px
+}
+
+#btn-special {
+    background-color: #FFEEEE;
+    color: #707070;
+    padding: 30px 20px;
+    margin-left: 1%;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 30px;
+    border: 2px solid #FF5959;
+}
+
+.btn-div {
+    margin-left: 25%;
+    padding-bottom: 2%;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid #DADADA;
+    width: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 25px 400px;
 }
