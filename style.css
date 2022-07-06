@@ -1,5 +1,5 @@
 body {
-    background-color: #1E1E1E;
+    background-color: ;
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
@@ -109,7 +109,7 @@ h1 {
 
 .container-flex {
     display: flex;
-    width: 80%;
+    width: 84%;
     padding-left: 8%;
     padding-right: 8%;
 }
@@ -163,4 +163,11 @@ h1 {
     background-color: #FF5959;
     color: #FFFFFF;
     border-radius: 5px;
+}
+
+#footer-section {
+    color: #FF5959;
+    height: 180px;
+    font-size: 15px;
+    text-align: center;
 }
